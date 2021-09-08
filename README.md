@@ -1,9 +1,11 @@
 # Tesis: Un enfoque probabilístico de las redes neuronales aplicadas a la clasificación multinomial de imágenes.
+## Departamento de Matemática, FCEN, UBA.
 
 
-Notebooks creados en el marco de la tesis _Un enfoque probabilístico de las redes neuronales aplicadas a la clasificación multinomial de imágenes._
+### Autor: Maite Angel
 
-Estan confeccionados para ser ejecutados en Google Colaboratory.
+##### Notebooks creados en el marco de la tesis por la Licenciatura de Ciencias Matemáticas. 
+##### Estan confeccionados para ser ejecutados en Google Colaboratory.
 
 
 * _**Ejemplos_de_juguete_fc_vs_cnn.ipynb**_: Se estudia el salto de la discriminación logística a redes FC con una capa oculta levantando el supuesto de linealidad de los datos. Mostramos en un ejemplo práctico como la necesidad de un proceso de Feature engineering, donde se deben conocer las particularidades de los datos para manipularlos correctamente, se levanta con las redes neuronales FC donde este proceso se vuelve implícito a la hora del entrenamiento.
